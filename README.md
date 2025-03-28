@@ -26,7 +26,6 @@ If you use this code or find our research helpful, please cite our paper:
 Simulation: Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control for a nonlinear system with uncertainties.
 
 <img src="Structure_V3.png" alt="structure" width="330"/>
-
 <img src="sketch.png" alt="Hardware sketch" width="370"/>
 
 The code is implemented in MATLAB and includes the following files:
