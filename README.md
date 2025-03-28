@@ -24,9 +24,10 @@ If you use this code or find our research helpful, please cite our paper:
 ## Overview
 
 Simulation: Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control for a nonlinear system with uncertainties.
-
-<img src="Structure_V3.png" alt="structure" width="330"/>
-<img src="sketch.png" alt="Hardware sketch" width="370"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="Structure_V3.png" alt="Algorithm structure" width="45%"/>
+    <img src="sketch.png" alt="Hardware sketch" width="53%"/>
+</div>
 
 The code is implemented in MATLAB and includes the following files:
 - `Simulation/main_FxT_CL_ADP.m`: Main file to run the simulation
