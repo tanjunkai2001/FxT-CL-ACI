@@ -4,6 +4,7 @@ This repository contains the code for the paper "Fixed-Time Concurrent Learning-
 
 + Details of the paper can be found at: [Junkai Tan's Publications](https://tanjunkai2001.github.io/publications/)
 + Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Unmanned%20aerial-ground%20vehicle%20finite-time%20docking%20control%20via%20pursuit-evasion%20games.pdf)
++ Quadrotor hardware experiment demo: [YouTube Video](https://www.youtube.com/shorts/0kQF8rS_Xhc)
 
 ## Citation
 
