@@ -3,7 +3,7 @@
 This repository contains the code for the paper "Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control" submitted to the *Nonlinear Dynamics* Journal. The simulation demonstrates the effectiveness of the proposed method in controlling a nonlinear system with uncertainties.
 
 + Details of the paper can be found at: [Junkai Tan's Publications](https://tanjunkai2001.github.io/publications/)
-+ Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Unmanned%20aerial-ground%20vehicle%20finite-time%20docking%20control%20via%20pursuit-evasion%20games.pdf)
++ Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Fixed-time%20concurrent%20learning-based%20robust%20approximate%20optimal%20control.pdf)
 + Quadrotor hardware experiment demo: [YouTube Video](https://www.youtube.com/shorts/0kQF8rS_Xhc)
 
 ## Citation
@@ -14,9 +14,9 @@ If you use this code or find our research helpful, please cite our paper:
 @article{Tan2025,
     author = {Tan, Junkai and Xue, Shuangsi and Niu, Tiansen and Qu, Kai and Cao, Hui and Chen, Badong},
     title = {Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control},
-    journal = {Submitted to Nonlinear Dynamics},
+    journal = {Nonlinear Dynamics},
     year = {2025},
-    month = {March}
+    month = {in press}
 }
 ```
 <!-- ,
