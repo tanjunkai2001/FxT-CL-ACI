@@ -1,6 +1,6 @@
 # Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control
 
-This repository contains the code for the paper "Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control" submitted to the *Nonlinear Dynamics* Journal. The simulation demonstrates the effectiveness of the proposed method in controlling a nonlinear system with uncertainties.
+This repository contains the code for the paper "[Fixed-Time Concurrent Learning-based Robust Approximate Optimal Control](https://tanjunkai2001.github.io/assets/Fixed-time%20concurrent%20learning-based%20robust%20approximate%20optimal%20control.pdf)" accepted by the *Nonlinear Dynamics* Journal. The simulation demonstrates the effectiveness of the proposed method in controlling a nonlinear system with uncertainties.
 
 + Details of the paper can be found at: [Junkai Tan's Publications](https://tanjunkai2001.github.io/publications/)
 + Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Fixed-time%20concurrent%20learning-based%20robust%20approximate%20optimal%20control.pdf)
